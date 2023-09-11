@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ShivamG0897
-- 👀 I enjoy data wrangling and data vizualization
-- 🌱 I’m currently doing a project on anomaly detection in predictive maintenance 
-- 💞️ I’m looking to collaborate on new AI/IoT development projects 
+- 👀 I enjoy Statistics and Machine Learning 
+- 🌱 R is my go to language for plotting graphs, while Pandas for Frames.
+- 💞️ I’m looking to collaborate on new AI/IoT development projects
+- 
 - 📫 You could also reach me on linkedin https://www.linkedin.com/in/shivam-goel01/
 
