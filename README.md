@@ -29,14 +29,13 @@ I work across the full data lifecycle — from ingestion & transformation to **M
 ### 📜 Certifications  
 - **AWS Certified Cloud Practitioner** (CLF-C02)  
 - **Microsoft Certified: Azure Data Fundamentals** (DP-900)  
-- **Microsoft Certified: Azure Data Scientist Associate** (DP-700)  
 - **Microsoft Fabric Certified Data Engineer Associate** (DP-700)
 
 ---
 
 ### 📂 Featured Projects  
-- **📦 Warehouse Object Detection VMS** – Integrated AWS S3, Python, and Tkinter to monitor B2B/B2C operations in 13 warehouses.  
-- **👗 Fabric Recognition AI** – Multi-output neural network, deployed via Docker & AWS ECS for web/mobile applications.  
+- **📦 Warehouse Object Detection VMS** – Integrated AWS S3, Python, and Tkinter to monitor B2B/B2C operations in 13 warehouses PAN India 
+- **👗 Fabric Recognition AI** – Multi-output neural network, deployed via Docker & AWS ECS for web/mobile applications. Featuring Resnet50, Mobilenet, Rekognition, ONNX and MLOPS. 
 - **📊 Real-Time TAT Dashboard** – BigQuery + Looker Studio analytics with role-based access via Metabase.  
 
 ---
