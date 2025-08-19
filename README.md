@@ -18,11 +18,11 @@ I work across the full data lifecycle — from ingestion & transformation to **M
 ---
 
 ### 🛠️ Skills & Tech Stack  
-**Languages:** Python, R, T-SQL, Spark, KQL, Java  
-**AI/ML:** TensorFlow, PyTorch, ONNX, LangChain, HuggingFace, scikit-learn  
-**Data Engineering:** Databricks, Airflow, Synapse Analytics, Kafka, Unity Catalog, HDFS  
+**Languages:** Python, R, T-SQL, Spark, KQL, Java, CQL
+**AI/ML:** TensorFlow, PyTorch, ONNX, LangChain, HuggingFace, scikit-learn, Langchain
+**Data Engineering:** Databricks, Airflow, Synapse Analytics, Kafka, Unity Catalog, HDFS, BigQuery, Redshift, Fabric Lakehouse, Power Query Engine
 **Cloud:** AWS, Azure, Microsoft Fabric  
-**Tools:** Docker, MCP, ELT/ETL pipelines, Data Lakes, MLflow  
+**Tools:** Docker, MCP, ELT/ETL pipelines, Data Lakes, MLflow, LangSmith, Postman, 
 
 ---
 
